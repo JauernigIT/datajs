@@ -2,8 +2,6 @@
   "name": "datajs-current",
   "version": "1.1.2",
   "description": "Fork of the CodePlex datajs project to allow installation via bower/npm.",
-  "main": ["datajs.js"],
   "license": "MIT",
-  "authors": ["Microsoft Open Technologies, Inc."],
-  "ignore": ["README.md"]
+  "authors": ["Microsoft Open Technologies, Inc."]
 }
